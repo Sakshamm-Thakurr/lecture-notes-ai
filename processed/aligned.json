@@ -1,0 +1,704 @@
+[
+  {
+    "block_id": 0,
+    "start_time": 0.0,
+    "end_time": 6.0,
+    "frame_file": "frame_0000.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with the text ' ' ' '",
+    "transcript": "What is up guys in this video I'm going to be showing you how you can get started with Python in less than 10 minutes"
+  },
+  {
+    "block_id": 1,
+    "start_time": 6.0,
+    "end_time": 15.08,
+    "frame_file": "frame_0001.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a video player with the text ' i ' m '",
+    "transcript": "And I'm going to be using Python 3.8 for this along with PyCharm as my code editor You can just search these on Google and they will pop up immediately"
+  },
+  {
+    "block_id": 2,
+    "start_time": 15.08,
+    "end_time": 23.48,
+    "frame_file": "frame_0002.jpg",
+    "ocr_text": "",
+    "visual_caption": "the screen with the text ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",
+    "transcript": "They are free and open source So definitely do check those out Otherwise, let's get started immediately with the first thing you should know in Python"
+  },
+  {
+    "block_id": 3,
+    "start_time": 23.48,
+    "end_time": 32.88,
+    "frame_file": "frame_0003.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a white text that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `",
+    "transcript": "And that is how to assign values to variables So to create a variable all you have to do is decide on a name such as item and then you can just assign it a value"
+  },
+  {
+    "block_id": 4,
+    "start_time": 32.96,
+    "end_time": 40.88,
+    "frame_file": "frame_0004.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` '",
+    "transcript": "This is a string and a string is just any form of text for the program to read and you also need to keep in mind that"
+  },
+  {
+    "block_id": 5,
+    "start_time": 41.24,
+    "end_time": 48.2,
+    "frame_file": "frame_0005.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a dark background",
+    "transcript": "Python is a Case-sensitive language, which means item with a small i and item with a big i are going to mean"
+  },
+  {
+    "block_id": 6,
+    "start_time": 48.76,
+    "end_time": 54.16,
+    "frame_file": "frame_0006.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a white background",
+    "transcript": "Absolutely different things and also a naming convention in Python is to add an"
+  },
+  {
+    "block_id": 7,
+    "start_time": 54.44,
+    "end_time": 63.0,
+    "frame_file": "frame_0007.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` ` ' '",
+    "transcript": "underscore every time you have more than one word So if we say item name you want to add this underscore over here and we can just say orange"
+  },
+  {
+    "block_id": 8,
+    "start_time": 63.0,
+    "end_time": 73.92,
+    "frame_file": "frame_0008.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",
+    "transcript": "So now we have a few strings assigned to three different variables Let's go ahead and print first the difference between item and item just to show you that there is a difference"
+  },
+  {
+    "block_id": 9,
+    "start_time": 73.92,
+    "end_time": 75.92,
+    "frame_file": "frame_0009.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` ' '",
+    "transcript": "So we'll go ahead and click on run"
+  },
+  {
+    "block_id": 10,
+    "start_time": 76.2,
+    "end_time": 87.84,
+    "frame_file": "frame_0010.jpg",
+    "ocr_text": "teemiprinen.5  Gmanor | jaa | PS tten = ‘sonana’ | Si teens tone! | -ten.nane = ‘Or8056\" | prineCiten, tem) | 1 | pace | a",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ' ' ' '",
+    "transcript": "And you'll notice it will say banana and apple now let's go ahead and print another string Which this time is going to be hello and we're going to add a plus and the item name"
+  },
+  {
+    "block_id": 11,
+    "start_time": 87.84,
+    "end_time": 92.76,
+    "frame_file": "frame_0011.jpg",
+    "ocr_text": "Inempytnen.5 | @neingr Fear) + aS SS | Bi ies ne | eee | D7 penetrate os. = | = Ce | > > Tinera/ecoes/Pyeeretofects/earn pytens/ven[ei/oyton /ers/acbook/Pyehartrejete earn. | 2 pet este | ea Process finished with exit code 0 | a | a | Heist! + 5s INRA vei | Gseunrenua ipa wad Seal Ceiaiar ae.",
+    "visual_caption": "a screenshoter in linux",
+    "transcript": "So as you can see we can actually combine text and when we print that it's going to say hello orange"
+  },
+  {
+    "block_id": 12,
+    "start_time": 93.0,
+    "end_time": 100.4,
+    "frame_file": "frame_0012.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a video player",
+    "transcript": "Next we have data types So the first one is the integer which is just any number and you're going to notice it being written in blue"
+  },
+  {
+    "block_id": 13,
+    "start_time": 100.4,
+    "end_time": 110.2,
+    "frame_file": "frame_0013.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a white background",
+    "transcript": "Then we have strings which as I showed you earlier is just any text inside quotation marks Then we have bullions which is just a simple true or false"
+  },
+  {
+    "block_id": 14,
+    "start_time": 110.2,
+    "end_time": 117.16,
+    "frame_file": "frame_0014.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `",
+    "transcript": "So as you can see we can just type in false here or true here and that's all that it is it just says true or false and"
+  },
+  {
+    "block_id": 15,
+    "start_time": 117.16,
+    "end_time": 126.64,
+    "frame_file": "frame_0015.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a black background",
+    "transcript": "The final one you should know for getting started is list Which all you have to do is create a pair of angle brackets and insert the values you want inside here"
+  },
+  {
+    "block_id": 16,
+    "start_time": 126.64,
+    "end_time": 134.24,
+    "frame_file": "frame_0016.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "And it can be a mixture between numbers bullions and so on But for this example, we'll just keep it simple and write a few strings"
+  },
+  {
+    "block_id": 17,
+    "start_time": 134.24,
+    "end_time": 144.64,
+    "frame_file": "frame_0017.jpg",
+    "ocr_text": "Wermpyiben.5 meinpy | r= 2023 | ord = \"text! | Asiapy = Foon | <—nmugnty.Uist = [Luiai\", ‘narfor, “Tosd'] | prantCinteger) | rally | ely | 9 Pettonmney te | Be ie00” FW hin Mrwnael @riborcans | o | Gomer) > OG O | Qtenting | eet poy",
+    "visual_caption": "a screenshot of a black screen with a black background and a white text that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `",
+    "transcript": "Then if we go ahead and print these you're going to notice that we will get 2021 text false and the list but let's move on to an example that we want to print these values"
+  },
+  {
+    "block_id": 18,
+    "start_time": 144.92,
+    "end_time": 150.78,
+    "frame_file": "frame_0018.jpg",
+    "ocr_text": "memprinen5 | Greinpr oumsi> aoe a | | emer) q | | | i | | rere | Cored | 241000 Fm MIs hbon cones | i ves a ees | o",
+    "visual_caption": "a screenshote screen with the text ' s name and the text ' s name",
+    "transcript": "Combined so let's say name is Mario the string number is going to equal 22"
+  },
+  {
+    "block_id": 19,
+    "start_time": 150.78,
+    "end_time": 158.0,
+    "frame_file": "frame_0019.jpg",
+    "ocr_text": "wernprihen.S Bnainor | Anteger = 20231 | if | = | a? | . | © Process finsahed with exit code @ | E1000 > dimen Mian neces | tart | cy | a | everson | Saas tee ERGaRGEA ee",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ' ' ' '",
+    "transcript": "So you're going to notice 2021 is a blue number and this one is green because this is considered text while this is considered"
+  },
+  {
+    "block_id": 20,
+    "start_time": 158.0,
+    "end_time": 163.72,
+    "frame_file": "frame_0020.jpg",
+    "ocr_text": "wernpymnens | Braior 27) 8 & 8S | joo | FO antegen = 2020 . | bi ‘string_number = /22° | | peu | © Process finsaned with exit code 8 | Sa.1008 Fam Maal hen conie Oey | PS",
+    "visual_caption": "a screenshote screen with the code",
+    "transcript": "And integer so what we need to do is actually convert them into the correct types before combining them"
+  },
+  {
+    "block_id": 21,
+    "start_time": 163.76,
+    "end_time": 174.28,
+    "frame_file": "frame_0021.jpg",
+    "ocr_text": "Some > w | un an = | > © Msora/nacdeck/Pyenaraprojects/tearn_pythan.S/venv/bin/pyton /users/eacbook/?ycharaProsects/tearn python. | - ma | text | process finishes mith exit code @ | 0 1900 Fate tem Wynton Otome | Bi dacuioxiwscuss rue ere OME sieecad eam a | - | oe",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `",
+    "transcript": "So to do that we can just go ahead and type in print name plus the string value of integer So it's going to convert the integer to a string so that we can combine these two text together"
+  },
+  {
+    "block_id": 22,
+    "start_time": 174.28,
+    "end_time": 180.44,
+    "frame_file": "frame_0022.jpg",
+    "ocr_text": "nempyihen.S | Grainor | a Bay | coy | Pears | : | 15sec + sce) | Coy",
+    "visual_caption": "a screenshote screen with the text ' s name and the text ' s name",
+    "transcript": "If we remove that and only write integer you're going to notice we are going to get an exception that says we cannot do that"
+  },
+  {
+    "block_id": 23,
+    "start_time": 180.44,
+    "end_time": 188.68,
+    "frame_file": "frame_0023.jpg",
+    "ocr_text": "(eoraoenens | iebinpr: bs | | ere . | Ro eae | Fe seth sri. | | =a Ce | €) Treceeen Cant resent ett ert | te \"hueclasah Pcareiecta/ea. yin nan\", Ui 8 In ater | Peper) | ‘rons! an cn eneate ats Cot At) ete | ese nab it cl oe | SR ics aarp nay",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "And the same thing goes for the string number Pretend we want to add the value of 10 to the string number Let it tell will be nice enough to tell you you shouldn't do that and"
+  },
+  {
+    "block_id": 24,
+    "start_time": 189.16,
+    "end_time": 196.24,
+    "frame_file": "frame_0024.jpg",
+    "ocr_text": "Som-j|> G8 0 | fun mai Cs | > F Traceback (nest recent catt test); | = 4 Fite “/aers/enctook/Prctarstraincte/lears_sythan S/anin.ny\", Une §, Sn crogute> | ES ___ printinane + integer) | “2 ‘Typwteron: ean only concatenate str (not “int*) to ste | 7 & Process finished with exit code 4 | a te0d) Fame miei Ginecol Oteiion | Dp iketaraea Sega Gene: Aeneid | tae",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "We should just put some parentheses there and type in int ahead of that so we can convert it to an integer and add it easily"
+  },
+  {
+    "block_id": 25,
+    "start_time": 197.0,
+    "end_time": 204.16,
+    "frame_file": "frame_0025.jpg",
+    "ocr_text": "mera pytnen.6 | Branpr. | Fnan = sa | in mao e- | + > Misera/nacdock/Pycnararrojects/teacn_python.5/venv/bin/prten /laers/eacbook/ ycharaProsects/earn_pythen. | < les | | 3 process finianed with exit code 8 | rier | + | 8 1000! > nee mn Wino | o",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ' ' ' '",
+    "transcript": "Next let's move on to math so we will create two variables one will be 10 and one will be five and to do math in Python"
+  },
+  {
+    "block_id": 26,
+    "start_time": 204.16,
+    "end_time": 217.64,
+    "frame_file": "frame_0026.jpg",
+    "ocr_text": "Somcl > G8 O | fo wtettin «16 | | sen | | 56 muttisly = bb | Perera’ | | {pom = been | 0 1000 > tee nl“ @ hibeoni | 0",
+    "visual_caption": "a screenshot of a black screen with a black background",
+    "transcript": "It's very self explanatory as you can see to do addition you just need to add a plus symbol for the difference You just add a minus symbol to multiply you add an asterix to divide you add a slash and if you want the exponential power"
+  },
+  {
+    "block_id": 27,
+    "start_time": 217.88,
+    "end_time": 224.04,
+    "frame_file": "frame_0027.jpg",
+    "ocr_text": "mernprihens | rainpy ee ha 1 | _— . | geootes | $. sasttion = a + a | F aitference = a= 0 | Be mattinyaae o | G7 atviee | Cer | 0 100d) > ate Min Wheat | [eae wiih se",
+    "visual_caption": "a screenshoter with a black background and a white background",
+    "transcript": "Just add two asterix and you'll notice that if we print all of these you're going to get a very quick calculator"
+  },
+  {
+    "block_id": 28,
+    "start_time": 224.04,
+    "end_time": 231.6,
+    "frame_file": "frame_0028.jpg",
+    "ocr_text": "Mecpionccerese el med | e | eae | pao | 16 printtpowerd",
+    "visual_caption": "a screenshot of a black screen with a black background",
+    "transcript": "So of course 10 plus 5 is 15 a minus b is going to be five and so on you'll get the values that correspond to those"
+  },
+  {
+    "block_id": 29,
+    "start_time": 232.28,
+    "end_time": 242.68,
+    "frame_file": "frame_0029.jpg",
+    "ocr_text": "joo | i | pedntfasettson) | rine (afference) | 2 brintteutesoty) | belne(aivice) | 3 orint ower) | fun _ ain | rae | ie | GH rocees rine with exit cote 8 | By to08 > km Magid @hiboreany | igimrwuitasctomnulnees | Gum-lr> aoe a | ee. | Cor",
+    "visual_caption": "a screenshot of a computer screen with a blue screen",
+    "transcript": "operators okay next let's go ahead and Create a logic statement. So we're going to use these two values. So is happy as false ages 28"
+  },
+  {
+    "block_id": 30,
+    "start_time": 243.24,
+    "end_time": 253.16,
+    "frame_file": "frame_0031.jpg",
+    "ocr_text": "Fotse",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ' ' ' '",
+    "transcript": "Let's pretend we want something that happened if the age is more than 21 We'll say print you are old and if they are not old we can also type in"
+  },
+  {
+    "block_id": 31,
+    "start_time": 253.72,
+    "end_time": 260.6,
+    "frame_file": "frame_0032.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "L if the age is equal to 18 we will tell them you are getting old and if it's neither of those"
+  },
+  {
+    "block_id": 32,
+    "start_time": 260.6,
+    "end_time": 271.56,
+    "frame_file": "frame_0033.jpg",
+    "ocr_text": "",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ' ' ' '",
+    "transcript": "We can go ahead and say you are still young and the same thing goes with the is happy statement So if we type in if the person is happy we can write you are"
+  },
+  {
+    "block_id": 33,
+    "start_time": 272.2,
+    "end_time": 278.6,
+    "frame_file": "frame_0034.jpg",
+    "ocr_text": "Wermpyinen_S | ineinoy fmnvirp O68 O | seme 4 | ‘age = 20 | Asliappy = Foise | if Stapp: Ly | pramt@'vou a) | cy aes | > > Miers/nacbook/PycnareProsecte/teacn_pytnon_s/venv/in/pytien /Users/aacbook/PycharsProjects/tearn_pythen. | 7 Yeu are atstt young! | 3 process fintshed sith exit code @ | ee | ite | be | + | a re00 ane Minin hier eons",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' ' '",
+    "transcript": "Happy else they are probably not happy. So we will just write you are not happy and when we play it"
+  },
+  {
+    "block_id": 34,
+    "start_time": 278.6,
+    "end_time": 286.12,
+    "frame_file": "frame_0035.jpg",
+    "ocr_text": "Wemprinen.5 @iainor | are | Fe | 6 Stappy: | print (You a | © oetnttYou are not nappy | age = 18 | shappy = Faise | haport*) | aS | + Husers/eacbook/PycnarsProjects/tearn_python_s/venv/bin/pythen /Users/nacbook/PyenareProjects/tearn.python. | You are not happy! | Process finished with exit cose 8 | Cig | paca ak",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "It's going to say they are not happy because it's happy is false And if we set this to true it's going to change to you are happy"
+  },
+  {
+    "block_id": 35,
+    "start_time": 286.68,
+    "end_time": 292.44,
+    "frame_file": "frame_0036.jpg",
+    "ocr_text": "Wempymnens Gmainer omen | Ee sana: | a Brink ('You are napy!') | print€‘You ara not nappy!) | a rood Fen man ane Caras | ere” son ea er",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "So the if statement just takes into account whether a statement is true or false and depending on that"
+  },
+  {
+    "block_id": 36,
+    "start_time": 292.52,
+    "end_time": 299.56,
+    "frame_file": "frame_0037.jpg",
+    "ocr_text": "Wermpyinen5 | Bmenpr | 26 Ashapey | rink (Yodo | ; havoy!) | Ved OF | prane(*You are not happy\") | un | > | o veu are napey! | 3 process fintahed with exit code 8 | Pea | i7 4 | a | * | Ee 1000\" > 4mm Msn hide cone Cord",
+    "visual_caption": "a screenshot of a black screen with a black background and a white text that reads, ' ' '",
+    "transcript": "It's going to give the outcome of the values and the if L statement is going to probably be your most used logic"
+  },
+  {
+    "block_id": 37,
+    "start_time": 299.64,
+    "end_time": 307.4,
+    "frame_file": "frame_0038.jpg",
+    "ocr_text": "Rm + Yor Lato] ° | Hi | - _ | epee acrpeemre yy Snr erway | | ss | 2 a Process finishes with exit code 8 | ' | is | 3 | Pest rsic emma ses | Seine ee | Bisteeaaea ta",
+    "visual_caption": "a screenshot of a black screen with a text that reads, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `",
+    "transcript": "Next let's move on to the for loop. So for i in range of Three which means it's going to loop over three values"
+  },
+  {
+    "block_id": 38,
+    "start_time": 307.8,
+    "end_time": 319.64,
+    "frame_file": "frame_0039.jpg",
+    "ocr_text": "o | Fr rea remy o | 2 prtottatte: | i | wile == | > fisers/nacbook Penareproects/tearnpyvon.S/veo/bin/bytnon/Msere/nacook/PyeharaProjests/Lear.oytnen, | eee vars tert | = > process tintshes with exit code 8 | ed | ears | a | : | me ro08) > kn isn minor cons",
+    "visual_caption": "a screenshot of a black screen with a white text",
+    "transcript": "We want to print hello and we can add a comma here and the value of i So if we print this you're going to notice it's going to say hello zero hello one hello two because in programming"
+  },
+  {
+    "block_id": 39,
+    "start_time": 319.72,
+    "end_time": 326.6,
+    "frame_file": "frame_0040.jpg",
+    "ocr_text": "mermpyinen.5 | renpr | Pree i cots | oe or | > © Msers/nacteok/PychareProjecte/teacn.python.s/venv/in/pyton /Users/eacbook/PycharsProjects/tearn_pythen. | wette @ | Cord | ‘5.1000 > ann Mw bib Goss | cos Saattieien e Ce | Piwuuawaanwarar iG",
+    "visual_caption": "a screenshot of a black screen with a black background and a white text that reads, ' ' '",
+    "transcript": "The index always starts at zero. So if you actually want that to start at one you're going to have to manually add one to i"
+  },
+  {
+    "block_id": 40,
+    "start_time": 327.0,
+    "end_time": 333.0,
+    "frame_file": "frame_0041.jpg",
+    "ocr_text": "nernpyinen.5 | Gneinpr Sumv| > BOE a | for 4 An canon | srinivas £6 q | a | ‘uaera/eachook/ycharaProjects/earn_python.s/vene/oin/oython /Users/nacbock/PycharsProfects/learn_python. | hatte a | atte 2 | elie 3 | ove | Ne | 5 | & Process Finished with exit code @ | . | aie | sy 1c00 beam Mivmnn @ hereon Cord | ines. eta ne",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "So now you get hello one hello two hello three and also just so you know what ranges we can go down here"
+  },
+  {
+    "block_id": 41,
+    "start_time": 333.24,
+    "end_time": 340.92,
+    "frame_file": "frame_0042.jpg",
+    "ocr_text": "[oaiorccsecnd tm EL id a | Peer me rotor : | é printCnete, 4-622 i | : | fe erat) | a aE | > > Tisrs/mcbook/renrerejets/inern_prton3/vnebin oven [nere/eshsk/Penererofeets/ ar. srten. | \"Satie 2 | eS wr. | Pe Ld | £7 roves tinises with ent con 8 | a | : | oe oii | o",
+    "visual_caption": "a screenshot of a black screen with a black background and a white text that reads, ' ' '",
+    "transcript": "And we can go ahead and type in print range of three So you're going to notice it's going to create a range object"
+  },
+  {
+    "block_id": 42,
+    "start_time": 340.92,
+    "end_time": 351.0,
+    "frame_file": "frame_0043.jpg",
+    "ocr_text": "meen opmeas. } Rnalinr, Cita S: | ar | for tin eC . | aces | prince) | | =m e- | Dg Tiers/ mcs rear wrapens/ata oye. a/vene/ec orien oeors/achen/evnrersdees nr oveem, | Bo | 2 me? | = 3 ques | ie zl | {7s 1 | FEE ree ratte in ste sta | ¥ | 541000 khan Minnie ines conaih | ° | i",
+    "visual_caption": "a screenshot of a black screen with a code",
+    "transcript": "Which is going to have the values from zero to three So this can iterate three times over that But you should also know that this works for lists so we can create a name list"
+  },
+  {
+    "block_id": 43,
+    "start_time": 351.24,
+    "end_time": 356.68,
+    "frame_file": "frame_0044.jpg",
+    "ocr_text": "mempythen.® manor | Poem ire = Cust, is, Tot | Eaimecl | un: main | © yetto 2 | Fates | as | ive | Eg Process tintaned with exit code & | + | o | 41000» kin vn pinecone | om | “Tuaers/sachook/PychareProjects/Learn_python.6/vene/bin/python /Users/eacbeck/PychareProjects/Learn.python. | Qiang | ins ures ceo UR an gear ee:",
+    "visual_caption": "a screenshot of a black screen with a black background",
+    "transcript": "I can type in four name in name list. We can print the name next"
+  },
+  {
+    "block_id": 44,
+    "start_time": 356.68,
+    "end_time": 363.16,
+    "frame_file": "frame_0045.jpg",
+    "ocr_text": "femv) > Oe O | Cory | pend ons Sbaaemaece ®",
+    "visual_caption": "a screenshote screen with the text ' ' ' ' and the text ' ' '",
+    "transcript": "We have a while loop. So we're just going to type in i equals zero and while i is less than five"
+  },
+  {
+    "block_id": 45,
+    "start_time": 363.4,
+    "end_time": 370.92,
+    "frame_file": "frame_0046.jpg",
+    "ocr_text": "leernpyinens Braver | snite 4 | ‘ Peres | tend > aime mba minor eon | Pi eencaripaans",
+    "visual_caption": "a screenshot of a computer screen with a blue screen",
+    "transcript": "We're going to increment the value of i by one each time it goes in this loop And finally we want to print the value of i"
+  },
+  {
+    "block_id": 46,
+    "start_time": 370.92,
+    "end_time": 381.4,
+    "frame_file": "frame_0047.jpg",
+    "ocr_text": "memprthenS Branvy oman = sa | = | ee = | Bs muterest | a pares | is rine) | ie | fu main Lo | 1) Pa [iseTalmacbock/PycharnProjecte/tsann_python_S/vanv/bin/python /Uaars/eacbook/PycharaProsects/taarn_pythen. | aa | 7 | i7¢ | boa | FA Process finished with exit code 8 | 5e:1600 > ktm Mw @hinoncosae Cory | mance wohten Gener a eootaetsT CGat",
+    "visual_caption": "a screenshot of a computer screen with a blue screen",
+    "transcript": "So what you should get a five values printed out just like this Because as soon as this statement becomes false It's going to exit out of this loop and just terminate the program"
+  },
+  {
+    "block_id": 47,
+    "start_time": 381.4,
+    "end_time": 390.12,
+    "frame_file": "frame_0048.jpg",
+    "ocr_text": "Mernpymen.s | Graney | Process finished with exit code 8 | Cory | Salers SUL putamen ee.",
+    "visual_caption": "a screenshote screen with the text ' ' ' '",
+    "transcript": "But a reason to use this is because you can create an infinite loop such as while true And that's never going to be false and inside here we're going to type in user input"
+  },
+  {
+    "block_id": 48,
+    "start_time": 390.6,
+    "end_time": 394.92,
+    "frame_file": "frame_0049.jpg",
+    "ocr_text": "memprinen 5 Boaipy | ; | coin | = | i | i Process finished with exit code 8 | Fs | HoT > Im Mterminal Python Consens Devan og | FA, ciel aves SRNne ee | o",
+    "visual_caption": "a screenshot of a blue screen with a black background",
+    "transcript": "And that's going to equal an input that says enter something"
+  },
+  {
+    "block_id": 49,
+    "start_time": 395.4,
+    "end_time": 404.44,
+    "frame_file": "frame_0050.jpg",
+    "ocr_text": "wernoymnen.5 | Greiner | “mez . | nite True | 2 ‘user-Anput = input(‘Enter seething >> *) | s 6 user tngut ex | 5 | Sain I= | T Tisers/eachock/PycharaProfects/Lsarn_python.§/venv/bin/python /Users/aacbook/PychersPrajects/tesrn_python_ | Process finished with exit code @ | Corny | Wis Aaa ee",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "And if the user input is equal to the string of zero then we're going to print we are done here And we are also going to break"
+  },
+  {
+    "block_id": 50,
+    "start_time": 405.64,
+    "end_time": 414.6,
+    "frame_file": "frame_0051.jpg",
+    "ocr_text": "trem esinne waned Seach a 8 8 | 4 | Perens tot , | ae ‘ser_Anput = SnputC Enter sosething >> \"2 | Sf user-inout == | Deine (me are done hare.) | 5 | 2 | ite | recone tintanes with oxtt code # | a c00° + ete Min tance cod | Somes",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "And what break does is just cancel the loop which means if we type in zero This loop is no longer going to be valid and it's going to exit out of the program"
+  },
+  {
+    "block_id": 51,
+    "start_time": 414.6,
+    "end_time": 420.92,
+    "frame_file": "frame_0052.jpg",
+    "ocr_text": "Rapeeens) Gri Sm} HRS S. | I | fener . | el ee oe | o) hea | See ey | cone 4 | 7 | in: main Con | 1 Tawratnacbock/PycharaProfect/earnython.5/vene/bsn/prthon /Uters/eacbook/Pycherarojects/learn python. | ag | as | as | + | Process finished with exit code ® | Ui | + | Ot | 151000 Ain Miwnine| ibe cone | jnlitciet IGS ae | Gisrctaen caer",
+    "visual_caption": "a screenshot of a code code with a blue background",
+    "transcript": "Otherwise, it's going to loop forever And if we actually play the program you're going to notice that finally we can add some input"
+  },
+  {
+    "block_id": 52,
+    "start_time": 420.92,
+    "end_time": 427.32,
+    "frame_file": "frame_0053.jpg",
+    "ocr_text": "memprinen.§ @reinor Amn) SO | ey | o | eile Trot | ‘veer input = snout (“Enter sonetning >> | : A ser input | ‘print (ime are done here.*) | pun ria e- | © Musers/eacbook/PychareProjects/Learn_python_S/venv/bin/oythen /Users/eacbook/PyeharsProjecte/tearn. python. | ‘enter sonathing >> 1° | [Enter sonething >> (7 | Se | oe Bu | 4 to0d an mit Hine cone Cory | PO ee NT PS",
+    "visual_caption": "a screenshot of a black screen with a black background and a white screen with a black background",
+    "transcript": "So we can type in 10 we can do two we can type in whatever that is But as soon as we type in zero"
+  },
+  {
+    "block_id": 53,
+    "start_time": 427.32,
+    "end_time": 434.92,
+    "frame_file": "frame_0054.jpg",
+    "ocr_text": "een priten.5 | Brainpy Smne|> wo | fun _@ main a- | —Tsera7eacbook/PycnareProsects/learn python S/venv/sin/pythen /Usare/eactook/PyeherePrajecte/ earn. python. | ‘Enter aonetning >> 1° | ‘Enter sonetning >> 62 | we 5 Enter gonatning 25.0 | BH Enter something >> | A | Eg We ore cone rere. | i | Process tintahs wien enst cove # | Se re08) > ann Meni ibaa Qe | ute ake Nl tivdtl Tue anna ecie eo | o",
+    "visual_caption": "a screenshot of a black screen with a blue screen",
+    "transcript": "It's going to exit the loop because it will reach this break statement And the program will finish moving on to functions"
+  },
+  {
+    "block_id": 54,
+    "start_time": 435.4,
+    "end_time": 444.2,
+    "frame_file": "frame_0055.jpg",
+    "ocr_text": "ae | er = | i | —TlseFa7eacdook/PychareProsects/laarn_python_S/venw/bin/python [aers/eacbook/Pyenarstras | enter something 2> 10 | ‘Enter something >> 02 | ‘Enter sonetning > jooiceioe | ‘Enter sonathing >> © | We re done here. | > | = | ’ | -e8u- | Process finished with exit code ® | Corny | Pi Sunline te. | 1000 > aim mtn be ine | iB reasaa WGibibaisann eases keeles.",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "To create a function all you have to do is use the dev keyword and just name the function however you like Of course I'm going to use the underscore naming convention"
+  },
+  {
+    "block_id": 55,
+    "start_time": 444.2,
+    "end_time": 452.52,
+    "frame_file": "frame_0056.jpg",
+    "ocr_text": "man pyinen.§ Greiner fume|> Gs o | \"Sef say hettoGond F | tun oman | A a Tinsrtuncbsklryohrarroects/ ear oytnaox/ven/eL/ py Ilse escsok/Pyehererrejets) son o7 OR | ‘Enter sonething >> | © £ enter sonetning >> 62 | Enter aoeething >> Joaiceloe | ‘enter sowething >> © | We ore done neve. | = | , | oo Bu | Process Finished with exit code | ny | Re ron6 > tne isnt ined tons Qian | PN ar eels orator dip jaee a KC:",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "And this function is only going to be used to say hello to the user So here we can go ahead and type in print hey there and we're going to insert the name"
+  },
+  {
+    "block_id": 56,
+    "start_time": 452.52,
+    "end_time": 463.4,
+    "frame_file": "frame_0057.jpg",
+    "ocr_text": "= | book Pycharabrojecte/Leara_python_S/venv/bin/python /Users/nacbook/PycharsProfects/learn_python. | [Enter something 2> 1° | ‘Enter something >> 62 | [Enter aonetning >> jooicetos | JH Enter sonatning >>» | . | . | We are done here. | Process finished with exit code 8 | rae | 6 1000) > hem Mind “Opie Coy | Seu Ady | 0",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "So you might be wondering what are functions and what do we use functions for Well functions are just used to reuse your code in many different instances because the main point of programming is to"
+  },
+  {
+    "block_id": 57,
+    "start_time": 464.12,
+    "end_time": 472.04,
+    "frame_file": "frame_0058.jpg",
+    "ocr_text": "ey | o | tunvi> eos a | Ces | |) 7 TieTa/aacbook/Pycharetrojects/tean_python_S/vanv/Bin/python /ers/eacbook/PycharaPrajects/aarn_pythen_ | {enter aovething >> 0 | Enter something >> ©? | [enter aaeetning >> Joossetoe | ‘Enter sonething >> © | We ore done here. | = | ’ | =eBu- | Process finished with exit code @ | Se 1000) > 4mm Mien pinecone | Corey | eal",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "reuse your code as much as possible You want to maximize how often you can reuse the same line of code without having to rewrite it"
+  },
+  {
+    "block_id": 58,
+    "start_time": 472.36,
+    "end_time": 475.24,
+    "frame_file": "frame_0059.jpg",
+    "ocr_text": "Wemprthen§ iainey omm=) > OR a | oe | | Be pCi Sere oot | ern . | T TiresDmebourrycartrojecta arn oyton 8/venv/s/oytan nae/oachonk/PyehaatrjecteMoe. ston. | estab indie) | © 5 enter something >> 9 | Enter soeeting 2» sohceoe | Entre comthiog + | We oe cone tare: | car | 08 | Process finished with exit code © | eo} | a te0d) > am isni mien cols Oieian | ive) tend eeatina ue | o",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "So for example now we created a function that says hello"
+  },
+  {
+    "block_id": 59,
+    "start_time": 475.24,
+    "end_time": 483.64,
+    "frame_file": "frame_0060.jpg",
+    "ocr_text": "tome) > ace @ | Fo sey netacneie'y | fe amon q | fon _@main | Sy a Tinsel nsntotsPyokrerrolets/TexrcoySosus/ves/¥L/ prises ewe stieolFyeherrrejets/ sera ovo. | Enter aonetning >> <° | © enter sonetning >> 02 | = | * | =o Bu | ‘Process Finished with exit code ® | cc} | Coy | 1990) Fhe Mula “Opie an | wis ee | ‘Bipods ee Galea",
+    "visual_caption": "a screenshot of a black screen with a green text",
+    "transcript": "We can type in mario and we can also use it again and we can type in luigi And when we run the program it will say hey there mario and hey there luigi"
+  },
+  {
+    "block_id": 60,
+    "start_time": 483.72,
+    "end_time": 493.96,
+    "frame_file": "frame_0061.jpg",
+    "ocr_text": "say petto(' Maria\") | snynetto(’ Lutes) | | > © Msers/nacoook/PycnareProsecte/tearn.python.s/venv/bin/pytnen /Users/nacbook/Pycharsbres | They snare tarts | ey there Lutsd | au | TB Process tinisned itn exit cove 8 | ry | . | ey t008 > am Mv inoreons ewig | Hum On unt 1OLL ba e | o",
+    "visual_caption": "a screenshot of a black screen with a black background",
+    "transcript": "Instead of writing this statement twice we were able to just use one function to do it multiple times And one thing we should cover also on functions is pretend you have a lot of functions"
+  },
+  {
+    "block_id": 61,
+    "start_time": 493.96,
+    "end_time": 499.16,
+    "frame_file": "frame_0062.jpg",
+    "ocr_text": "fomri > Oe a | warn priben.§ Giainer | == | 2 oaerf | Cory | a I Se | 51008) > 4mm ine pine coia | BD enceoctassdih ain planer paseo Sarre",
+    "visual_caption": "a screenshot of a black screen with a white text",
+    "transcript": "You need to create such as get internet and run game"
+  },
+  {
+    "block_id": 62,
+    "start_time": 499.16,
+    "end_time": 508.92,
+    "frame_file": "frame_0063.jpg",
+    "ocr_text": "a= | Qing",
+    "visual_caption": "a screenshot of a black screen with a black background and a white text that reads, ' ' '",
+    "transcript": "Something such as that and you don't really have the logic for it yet So you're going to notice that these are empty If you run the program you're going to get an error"
+  },
+  {
+    "block_id": 63,
+    "start_time": 508.92,
+    "end_time": 516.6,
+    "frame_file": "frame_0064.jpg",
+    "ocr_text": "Boor gre tart: | s I | Oe ceemecoet: | | ee cS | > Tusers/nachook/PyenaraProsects/teern_pytnen-s/venv/oin/python /Users/nacbook/PychareProsects/Learn. python. | ff Fite “Zivern/anchaoe/Pvcarstraincts/iaaen.oyShon t/anin.se\", Une 5 | tO at ramsane | = | e + expected an indented Block | =28u | Process Finished with exit code 2 | ny | a to00 bmn Mini hineceon Oty | Walks aemncwan ae ae",
+    "visual_caption": "a screenshot of a black screen with a red and blue code",
+    "transcript": "But python has created this keyword that is called pass Which essentially just says there's nothing in here we accept that"
+  },
+  {
+    "block_id": 64,
+    "start_time": 516.6,
+    "end_time": 526.04,
+    "frame_file": "frame_0065.jpg",
+    "ocr_text": "\\Sresi > Oe Q | = | eve | aeBae> | a | Process Finished with exit code 2 | mare00) > 4mm min hihi Coe) | Oe em atrydry",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "And your program is still going to be able to run regardless of having no content inside the function Now when we tap on run you're going to notice there are going to be no errors because"
+  },
+  {
+    "block_id": 65,
+    "start_time": 526.04,
+    "end_time": 532.68,
+    "frame_file": "frame_0066.jpg",
+    "ocr_text": ": : | Be ler artinmtt: | aieciinast 4 | = | > © Mers/oacbook/PyenareProjects/tearn.python.S/venv/oin/pytion /Users/nacbook/PycharsProjects/Learn_oythen. | Process finishes with exit code @",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "The program is going to understand that we provided the keyword pass Which just tells it that there's nothing there and it accepts it"
+  },
+  {
+    "block_id": 66,
+    "start_time": 532.68,
+    "end_time": 540.04,
+    "frame_file": "frame_0067.jpg",
+    "ocr_text": "> | © 5 rrocens tinh ett ett cate # | = | = | Vs | ba | . | Sarco rane migaii “@hikeren Gian | Fi piper es oar Sa a ag",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "But this is very good for creating the blueprints later In case you need to write everything your program should do But don't really know how to do that yet"
+  },
+  {
+    "block_id": 67,
+    "start_time": 540.12,
+    "end_time": 547.88,
+    "frame_file": "frame_0068.jpg",
+    "ocr_text": "Werapyinen.§ | Gmainpr Smash? ORE | — = | Gi cer gettntemet | 5 | i | fr Oman e- | > © Maers/nacbock/PycnareProjecte/teacn_pytvon.s/venv/bin/pytnen /Users/eacbook/PycharsProsects/Learn_oythen | Process finished with exit code @ | me re00° 4m ini! @pibocconls | ip Getrercicun ues",
+    "visual_caption": "a screenshot of a black screen with a black background and a white text that reads, ' ' '",
+    "transcript": "Just insert the word pass and it will save you a lot of trouble And finally we're going to go over how we can use the try and accept block"
+  },
+  {
+    "block_id": 68,
+    "start_time": 547.88,
+    "end_time": 555.0,
+    "frame_file": "frame_0069.jpg",
+    "ocr_text": "wernpyinen.5 | Graney Seno) > 8 | G2 pumer = sopueCh = | une _ main m= | > > Wers/eaccook/PyenareProjects/teacn_python.s/vanv/in/pytien /Users/nacbook/PycnarsProsects/Learn.oythen. | Process finished mith exit code @ | = | , | oo Bu- | oy | me 1000) > an msn Hib Co | Salis Lind awl RNICanenO a a: | o",
+    "visual_caption": "a screenshot of a black screen with a black background",
+    "transcript": "So for here we're going to create an input and it's going to say please provide a number"
+  },
+  {
+    "block_id": 69,
+    "start_time": 555.0,
+    "end_time": 564.2,
+    "frame_file": "frame_0070.jpg",
+    "ocr_text": "nerprteen.8 Breer Some) > & | pases ra | runver = sop (Pte | provige a nuner >> | prin | Process finishes with exit code @ | 2s | a | te | . | ey | Se.to00 > din Mini @inocconns Corey | BS wes ull oaatmnnan es | o",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "So now we're going to go ahead and type in try And we're going to try to print the value plus the integer of the number that we get from the user"
+  },
+  {
+    "block_id": 70,
+    "start_time": 564.2,
+    "end_time": 571.4,
+    "frame_file": "frame_0071.jpg",
+    "ocr_text": "ermcovien.s Gnainar, a | pos | | Po eos | fc om | Fe esneeas + sneer) | Bo ances q | come | a Lon ae | > > Turerleacbok/Pyenererrojecte/tearn pyton.s/venw/ainyoython/user/nacook/PyenareProsecta/ ern Dytho. | © | process finished with exit code & | ce | : | : re | fo | $ | a ton0) > 4mm Meinl eihibecnis | o",
+    "visual_caption": "a screenshot of a black screen with a black background and a white screen with a black background",
+    "transcript": "And if that doesn't work we're going to print that that is not a valid number"
+  },
+  {
+    "block_id": 71,
+    "start_time": 571.4,
+    "end_time": 578.36,
+    "frame_file": "frame_0072.jpg",
+    "ocr_text": "fome|> Soe a | fe | Bir Tpeantet ty eet o atid meri} | | meme ae | > > Maersinaccook/PycnareProjecte/tearn.pytvon.S/venv/oin/python /Uaers/nacbook/PycnarsProjects/tearn_pythen | Process finished with exit code @ | 3 | = | . | . | Se te08) 4mm wait ibe Qiang | o Teal Une A Cine Se",
+    "visual_caption": "a screenshot of a black screen with a dark background",
+    "transcript": "So the way it works is it tries to execute the code that's inside here And if anything goes wrong if an exception occurs"
+  },
+  {
+    "block_id": 72,
+    "start_time": 578.36,
+    "end_time": 586.92,
+    "frame_file": "frame_0073.jpg",
+    "ocr_text": "(ponies | amma See) ss | Tm . | SSS | co | . ‘print (a + Sot (number) | ae ee aS | > > Tiserlnacbok/Pyeneretrosecte/earn_prton.s/vew/ain/python/users/nacbeok/ Pyenerafresects/ ern Dyno. | © = process finishes with exit code & | te | og | fo | * | ee Cais | \\dnieadrueen™ Fou St P'ves louie’",
+    "visual_caption": "a screenshot of a black screen with a black background and a white screen with a black background",
+    "transcript": "It's going to go to the accept block and it's going to execute whatever's inside there Of course if you write something that throws an exception inside here"
+  },
+  {
+    "block_id": 73,
+    "start_time": 586.92,
+    "end_time": 595.08,
+    "frame_file": "frame_0074.jpg",
+    "ocr_text": "mera. pytnen.5 | Grainpr Suns} t aoe a | numer = input (\"Please provise » number >> °) | pednt(s8 + sntCmusber)) | scant | | ‘DeintgiThat 4s net 9 wuls nusder) Df a | ween tonne nin | Peers | ‘fo | ie | ; | Ahab adlsuancaikiape hie a",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "You need to try with another try and accept block But if we go ahead and run the program now we can write something like 10 Add it's going to add 10 to the value"
+  },
+  {
+    "block_id": 74,
+    "start_time": 595.08,
+    "end_time": 605.72,
+    "frame_file": "frame_0075.jpg",
+    "ocr_text": "F —_\" i | rmunber = Snput (\"Please provie # number >> °) | “Bae | Fs pnt «etiam | i | | a eae | | am a= | Fe Foerster: rover sheers prone s/ver tortion seer] ovneelepseerceeer/ esr, | Pepler ne | ae | APL Process finished with exit code ® | a | Pa | EB | Bet000) > 4mm Meni Sine cos | 0",
+    "visual_caption": "a screenshot of a black screen with a black background and a white background",
+    "transcript": "But of course what if we write something such as Mario Try adding Mario to 10 and the program is not going to be happy Because you cannot convert Mario to an integer and then add it to 10"
+  },
+  {
+    "block_id": 75,
+    "start_time": 605.72,
+    "end_time": 611.08,
+    "frame_file": "frame_0076.jpg",
+    "ocr_text": "ae 4 | is pene in + Annie) | — | | a _ | i | I\": | : | 41000) > kimmel rine cone",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "So it's going to say you shouldn't do that but don't worry because we have the exception covered"
+  },
+  {
+    "block_id": 76,
+    "start_time": 611.08,
+    "end_time": 619.0,
+    "frame_file": "frame_0077.jpg",
+    "ocr_text": "Rem prinen.S | Breiner Fone} > aoe o | pees 4 | a eee oer ine mee | 3 i tev | es | Seu) | i) “Titikomessmneuamse : | for: _ main e- | > © Maers/eacvook/PycnareProjecte/teare.pytnon.s/venv/oin/pytion /Users/aacbook/PycharsProjects/tearn_pythen. | inese provide « number >> frie | ‘That 4a not a vslie romber! | = | Process finisnes with exst code @ | * | +a | 08 | He 1008) > an Mil Hinoneaia Qe | WEN aor lel aaaaeedsi ae | o",
+    "visual_caption": "a screenshot of a black screen with a green screen",
+    "transcript": "And our program will say that is not a valid number and not throw an exception But anyway I really hope that helped you to get started with Python"
+  },
+  {
+    "block_id": 77,
+    "start_time": 619.0,
+    "end_time": 630.12,
+    "frame_file": "frame_0078.jpg",
+    "ocr_text": "Po main | > > Maers/nacbook/PyenaraProjecte/tearn.pytvon.S/venv/ain/pytnon /Users/nact | ‘Piaate provide a unter >> ic | ‘That de not a velié muster! | = | Process finishes with exit code @ | ’ | =eBu- | ' | i | + | 1000\" > an minal @ hho eon | o ee",
+    "visual_caption": "a screenshot of a code code",
+    "transcript": "Of course there's a lot more to cover This was just meant as a very quick guide for helping you to get started And with that being said have a wonderful day and I'll see you guys in the next video"
+  }
+]

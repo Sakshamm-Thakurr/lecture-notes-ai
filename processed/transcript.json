@@ -1,0 +1,702 @@
+[
+  {
+    "start": 0.0,
+    "end": 6.0,
+    "text": "What is up guys in this video I'm going to be showing you how you can get started with Python in less than 10 minutes"
+  },
+  {
+    "start": 6.0,
+    "end": 11.68,
+    "text": "And I'm going to be using Python 3.8 for this along with PyCharm as my code editor"
+  },
+  {
+    "start": 11.88,
+    "end": 15.08,
+    "text": "You can just search these on Google and they will pop up immediately"
+  },
+  {
+    "start": 15.08,
+    "end": 17.08,
+    "text": "They are free and open source"
+  },
+  {
+    "start": 17.24,
+    "end": 19.44,
+    "text": "So definitely do check those out"
+  },
+  {
+    "start": 19.44,
+    "end": 23.48,
+    "text": "Otherwise, let's get started immediately with the first thing you should know in Python"
+  },
+  {
+    "start": 23.48,
+    "end": 26.44,
+    "text": "And that is how to assign values to variables"
+  },
+  {
+    "start": 26.44,
+    "end": 32.88,
+    "text": "So to create a variable all you have to do is decide on a name such as item and then you can just assign it a value"
+  },
+  {
+    "start": 32.96,
+    "end": 40.88,
+    "text": "This is a string and a string is just any form of text for the program to read and you also need to keep in mind that"
+  },
+  {
+    "start": 41.24,
+    "end": 42.6,
+    "text": "Python is a"
+  },
+  {
+    "start": 42.6,
+    "end": 48.2,
+    "text": "Case-sensitive language, which means item with a small i and item with a big i are going to mean"
+  },
+  {
+    "start": 48.76,
+    "end": 54.16,
+    "text": "Absolutely different things and also a naming convention in Python is to add an"
+  },
+  {
+    "start": 54.44,
+    "end": 56.64,
+    "text": "underscore every time you have more than one word"
+  },
+  {
+    "start": 56.64,
+    "end": 63.0,
+    "text": "So if we say item name you want to add this underscore over here and we can just say orange"
+  },
+  {
+    "start": 63.0,
+    "end": 66.64,
+    "text": "So now we have a few strings assigned to three different variables"
+  },
+  {
+    "start": 66.64,
+    "end": 73.92,
+    "text": "Let's go ahead and print first the difference between item and item just to show you that there is a difference"
+  },
+  {
+    "start": 73.92,
+    "end": 75.92,
+    "text": "So we'll go ahead and click on run"
+  },
+  {
+    "start": 76.2,
+    "end": 81.92,
+    "text": "And you'll notice it will say banana and apple now let's go ahead and print another string"
+  },
+  {
+    "start": 81.92,
+    "end": 87.84,
+    "text": "Which this time is going to be hello and we're going to add a plus and the item name"
+  },
+  {
+    "start": 87.84,
+    "end": 92.76,
+    "text": "So as you can see we can actually combine text and when we print that it's going to say hello orange"
+  },
+  {
+    "start": 93.0,
+    "end": 94.72,
+    "text": "Next we have data types"
+  },
+  {
+    "start": 94.72,
+    "end": 100.4,
+    "text": "So the first one is the integer which is just any number and you're going to notice it being written in blue"
+  },
+  {
+    "start": 100.4,
+    "end": 106.08,
+    "text": "Then we have strings which as I showed you earlier is just any text inside quotation marks"
+  },
+  {
+    "start": 106.08,
+    "end": 110.2,
+    "text": "Then we have bullions which is just a simple true or false"
+  },
+  {
+    "start": 110.2,
+    "end": 117.16,
+    "text": "So as you can see we can just type in false here or true here and that's all that it is it just says true or false and"
+  },
+  {
+    "start": 117.16,
+    "end": 121.04,
+    "text": "The final one you should know for getting started is list"
+  },
+  {
+    "start": 121.12,
+    "end": 126.64,
+    "text": "Which all you have to do is create a pair of angle brackets and insert the values you want inside here"
+  },
+  {
+    "start": 126.64,
+    "end": 129.68,
+    "text": "And it can be a mixture between numbers bullions and so on"
+  },
+  {
+    "start": 130.04,
+    "end": 134.24,
+    "text": "But for this example, we'll just keep it simple and write a few strings"
+  },
+  {
+    "start": 134.24,
+    "end": 137.88,
+    "text": "Then if we go ahead and print these you're going to notice that we will get"
+  },
+  {
+    "start": 137.88,
+    "end": 144.64,
+    "text": "2021 text false and the list but let's move on to an example that we want to print these values"
+  },
+  {
+    "start": 144.92,
+    "end": 150.78,
+    "text": "Combined so let's say name is Mario the string number is going to equal 22"
+  },
+  {
+    "start": 150.78,
+    "end": 158.0,
+    "text": "So you're going to notice 2021 is a blue number and this one is green because this is considered text while this is considered"
+  },
+  {
+    "start": 158.0,
+    "end": 163.72,
+    "text": "And integer so what we need to do is actually convert them into the correct types before combining them"
+  },
+  {
+    "start": 163.76,
+    "end": 169.84,
+    "text": "So to do that we can just go ahead and type in print name plus the string value of integer"
+  },
+  {
+    "start": 169.84,
+    "end": 174.28,
+    "text": "So it's going to convert the integer to a string so that we can combine these two text together"
+  },
+  {
+    "start": 174.28,
+    "end": 180.44,
+    "text": "If we remove that and only write integer you're going to notice we are going to get an exception that says we cannot do that"
+  },
+  {
+    "start": 180.44,
+    "end": 183.04,
+    "text": "And the same thing goes for the string number"
+  },
+  {
+    "start": 183.04,
+    "end": 185.96,
+    "text": "Pretend we want to add the value of 10 to the string number"
+  },
+  {
+    "start": 185.96,
+    "end": 188.68,
+    "text": "Let it tell will be nice enough to tell you you shouldn't do that and"
+  },
+  {
+    "start": 189.16,
+    "end": 196.24,
+    "text": "We should just put some parentheses there and type in int ahead of that so we can convert it to an integer and add it easily"
+  },
+  {
+    "start": 197.0,
+    "end": 200.76,
+    "text": "Next let's move on to math so we will create two variables one will be"
+  },
+  {
+    "start": 201.16,
+    "end": 204.16,
+    "text": "10 and one will be five and to do math in Python"
+  },
+  {
+    "start": 204.16,
+    "end": 210.04,
+    "text": "It's very self explanatory as you can see to do addition you just need to add a plus symbol for the difference"
+  },
+  {
+    "start": 210.04,
+    "end": 217.64,
+    "text": "You just add a minus symbol to multiply you add an asterix to divide you add a slash and if you want the exponential power"
+  },
+  {
+    "start": 217.88,
+    "end": 224.04,
+    "text": "Just add two asterix and you'll notice that if we print all of these you're going to get a very quick calculator"
+  },
+  {
+    "start": 224.04,
+    "end": 231.6,
+    "text": "So of course 10 plus 5 is 15 a minus b is going to be five and so on you'll get the values that correspond to those"
+  },
+  {
+    "start": 232.28,
+    "end": 234.68,
+    "text": "operators okay next let's go ahead and"
+  },
+  {
+    "start": 235.08,
+    "end": 242.68,
+    "text": "Create a logic statement. So we're going to use these two values. So is happy as false ages 28"
+  },
+  {
+    "start": 243.24,
+    "end": 247.36,
+    "text": "Let's pretend we want something that happened if the age is more than 21"
+  },
+  {
+    "start": 247.68,
+    "end": 253.16,
+    "text": "We'll say print you are old and if they are not old we can also type in"
+  },
+  {
+    "start": 253.72,
+    "end": 260.6,
+    "text": "L if the age is equal to 18 we will tell them you are getting old and if it's neither of those"
+  },
+  {
+    "start": 260.6,
+    "end": 266.84,
+    "text": "We can go ahead and say you are still young and the same thing goes with the is happy statement"
+  },
+  {
+    "start": 266.92,
+    "end": 271.56,
+    "text": "So if we type in if the person is happy we can write you are"
+  },
+  {
+    "start": 272.2,
+    "end": 278.6,
+    "text": "Happy else they are probably not happy. So we will just write you are not happy and when we play it"
+  },
+  {
+    "start": 278.6,
+    "end": 281.8,
+    "text": "It's going to say they are not happy because it's happy is false"
+  },
+  {
+    "start": 282.44,
+    "end": 286.12,
+    "text": "And if we set this to true it's going to change to you are happy"
+  },
+  {
+    "start": 286.68,
+    "end": 292.44,
+    "text": "So the if statement just takes into account whether a statement is true or false and depending on that"
+  },
+  {
+    "start": 292.52,
+    "end": 299.56,
+    "text": "It's going to give the outcome of the values and the if L statement is going to probably be your most used logic"
+  },
+  {
+    "start": 299.64,
+    "end": 303.96,
+    "text": "Next let's move on to the for loop. So for i in range of"
+  },
+  {
+    "start": 304.6,
+    "end": 307.4,
+    "text": "Three which means it's going to loop over three values"
+  },
+  {
+    "start": 307.8,
+    "end": 313.16,
+    "text": "We want to print hello and we can add a comma here and the value of i"
+  },
+  {
+    "start": 313.72,
+    "end": 319.64,
+    "text": "So if we print this you're going to notice it's going to say hello zero hello one hello two because in programming"
+  },
+  {
+    "start": 319.72,
+    "end": 326.6,
+    "text": "The index always starts at zero. So if you actually want that to start at one you're going to have to manually add one to i"
+  },
+  {
+    "start": 327.0,
+    "end": 333.0,
+    "text": "So now you get hello one hello two hello three and also just so you know what ranges we can go down here"
+  },
+  {
+    "start": 333.24,
+    "end": 337.0,
+    "text": "And we can go ahead and type in print range of three"
+  },
+  {
+    "start": 338.12,
+    "end": 340.92,
+    "text": "So you're going to notice it's going to create a range object"
+  },
+  {
+    "start": 340.92,
+    "end": 343.48,
+    "text": "Which is going to have the values from zero to three"
+  },
+  {
+    "start": 343.96,
+    "end": 346.28,
+    "text": "So this can iterate three times over that"
+  },
+  {
+    "start": 346.36,
+    "end": 351.0,
+    "text": "But you should also know that this works for lists so we can create a name list"
+  },
+  {
+    "start": 351.24,
+    "end": 356.68,
+    "text": "I can type in four name in name list. We can print the name next"
+  },
+  {
+    "start": 356.68,
+    "end": 363.16,
+    "text": "We have a while loop. So we're just going to type in i equals zero and while i is less than five"
+  },
+  {
+    "start": 363.4,
+    "end": 368.52,
+    "text": "We're going to increment the value of i by one each time it goes in this loop"
+  },
+  {
+    "start": 368.68,
+    "end": 370.92,
+    "text": "And finally we want to print the value of i"
+  },
+  {
+    "start": 370.92,
+    "end": 374.84,
+    "text": "So what you should get a five values printed out just like this"
+  },
+  {
+    "start": 374.92,
+    "end": 377.64,
+    "text": "Because as soon as this statement becomes false"
+  },
+  {
+    "start": 377.64,
+    "end": 381.4,
+    "text": "It's going to exit out of this loop and just terminate the program"
+  },
+  {
+    "start": 381.4,
+    "end": 386.2,
+    "text": "But a reason to use this is because you can create an infinite loop such as while true"
+  },
+  {
+    "start": 386.2,
+    "end": 390.12,
+    "text": "And that's never going to be false and inside here we're going to type in user input"
+  },
+  {
+    "start": 390.6,
+    "end": 394.92,
+    "text": "And that's going to equal an input that says enter something"
+  },
+  {
+    "start": 395.4,
+    "end": 402.44,
+    "text": "And if the user input is equal to the string of zero then we're going to print we are done here"
+  },
+  {
+    "start": 402.52,
+    "end": 404.44,
+    "text": "And we are also going to break"
+  },
+  {
+    "start": 405.64,
+    "end": 410.6,
+    "text": "And what break does is just cancel the loop which means if we type in zero"
+  },
+  {
+    "start": 410.68,
+    "end": 414.6,
+    "text": "This loop is no longer going to be valid and it's going to exit out of the program"
+  },
+  {
+    "start": 414.6,
+    "end": 417.0,
+    "text": "Otherwise, it's going to loop forever"
+  },
+  {
+    "start": 417.0,
+    "end": 420.92,
+    "text": "And if we actually play the program you're going to notice that finally we can add some input"
+  },
+  {
+    "start": 420.92,
+    "end": 424.84,
+    "text": "So we can type in 10 we can do two we can type in whatever that is"
+  },
+  {
+    "start": 425.4,
+    "end": 427.32,
+    "text": "But as soon as we type in zero"
+  },
+  {
+    "start": 427.32,
+    "end": 431.08,
+    "text": "It's going to exit the loop because it will reach this break statement"
+  },
+  {
+    "start": 431.72,
+    "end": 434.92,
+    "text": "And the program will finish moving on to functions"
+  },
+  {
+    "start": 435.4,
+    "end": 441.24,
+    "text": "To create a function all you have to do is use the dev keyword and just name the function however you like"
+  },
+  {
+    "start": 441.24,
+    "end": 444.2,
+    "text": "Of course I'm going to use the underscore naming convention"
+  },
+  {
+    "start": 444.2,
+    "end": 448.04,
+    "text": "And this function is only going to be used to say hello to the user"
+  },
+  {
+    "start": 448.04,
+    "end": 452.52,
+    "text": "So here we can go ahead and type in print hey there and we're going to insert the name"
+  },
+  {
+    "start": 452.52,
+    "end": 456.04,
+    "text": "So you might be wondering what are functions and what do we use functions for"
+  },
+  {
+    "start": 456.04,
+    "end": 458.04,
+    "text": "Well functions are just used to"
+  },
+  {
+    "start": 458.2,
+    "end": 463.4,
+    "text": "reuse your code in many different instances because the main point of programming is to"
+  },
+  {
+    "start": 464.12,
+    "end": 466.12,
+    "text": "reuse your code as much as possible"
+  },
+  {
+    "start": 466.12,
+    "end": 472.04,
+    "text": "You want to maximize how often you can reuse the same line of code without having to rewrite it"
+  },
+  {
+    "start": 472.36,
+    "end": 475.24,
+    "text": "So for example now we created a function that says hello"
+  },
+  {
+    "start": 475.24,
+    "end": 479.8,
+    "text": "We can type in mario and we can also use it again and we can type in luigi"
+  },
+  {
+    "start": 479.8,
+    "end": 483.64,
+    "text": "And when we run the program it will say hey there mario and hey there luigi"
+  },
+  {
+    "start": 483.72,
+    "end": 489.56,
+    "text": "Instead of writing this statement twice we were able to just use one function to do it multiple times"
+  },
+  {
+    "start": 489.64,
+    "end": 493.96,
+    "text": "And one thing we should cover also on functions is pretend you have a lot of functions"
+  },
+  {
+    "start": 493.96,
+    "end": 499.16,
+    "text": "You need to create such as get internet and run game"
+  },
+  {
+    "start": 499.16,
+    "end": 503.0,
+    "text": "Something such as that and you don't really have the logic for it yet"
+  },
+  {
+    "start": 503.08,
+    "end": 505.64,
+    "text": "So you're going to notice that these are empty"
+  },
+  {
+    "start": 505.64,
+    "end": 508.92,
+    "text": "If you run the program you're going to get an error"
+  },
+  {
+    "start": 508.92,
+    "end": 512.76,
+    "text": "But python has created this keyword that is called pass"
+  },
+  {
+    "start": 512.76,
+    "end": 516.6,
+    "text": "Which essentially just says there's nothing in here we accept that"
+  },
+  {
+    "start": 516.6,
+    "end": 522.12,
+    "text": "And your program is still going to be able to run regardless of having no content inside the function"
+  },
+  {
+    "start": 522.12,
+    "end": 526.04,
+    "text": "Now when we tap on run you're going to notice there are going to be no errors because"
+  },
+  {
+    "start": 526.04,
+    "end": 529.64,
+    "text": "The program is going to understand that we provided the keyword pass"
+  },
+  {
+    "start": 529.64,
+    "end": 532.68,
+    "text": "Which just tells it that there's nothing there and it accepts it"
+  },
+  {
+    "start": 532.68,
+    "end": 535.56,
+    "text": "But this is very good for creating the blueprints later"
+  },
+  {
+    "start": 535.56,
+    "end": 538.04,
+    "text": "In case you need to write everything your program should do"
+  },
+  {
+    "start": 538.04,
+    "end": 540.04,
+    "text": "But don't really know how to do that yet"
+  },
+  {
+    "start": 540.12,
+    "end": 543.16,
+    "text": "Just insert the word pass and it will save you a lot of trouble"
+  },
+  {
+    "start": 543.16,
+    "end": 547.88,
+    "text": "And finally we're going to go over how we can use the try and accept block"
+  },
+  {
+    "start": 547.88,
+    "end": 551.8,
+    "text": "So for here we're going to create an input and it's going to say please"
+  },
+  {
+    "start": 552.6,
+    "end": 555.0,
+    "text": "provide a number"
+  },
+  {
+    "start": 555.0,
+    "end": 556.84,
+    "text": "So now we're going to go ahead and type in try"
+  },
+  {
+    "start": 557.56,
+    "end": 564.2,
+    "text": "And we're going to try to print the value plus the integer of the number that we get from the user"
+  },
+  {
+    "start": 564.2,
+    "end": 571.4,
+    "text": "And if that doesn't work we're going to print that that is not a valid number"
+  },
+  {
+    "start": 571.4,
+    "end": 575.4,
+    "text": "So the way it works is it tries to execute the code that's inside here"
+  },
+  {
+    "start": 575.4,
+    "end": 578.36,
+    "text": "And if anything goes wrong if an exception occurs"
+  },
+  {
+    "start": 578.36,
+    "end": 583.24,
+    "text": "It's going to go to the accept block and it's going to execute whatever's inside there"
+  },
+  {
+    "start": 583.24,
+    "end": 586.92,
+    "text": "Of course if you write something that throws an exception inside here"
+  },
+  {
+    "start": 586.92,
+    "end": 589.32,
+    "text": "You need to try with another try and accept block"
+  },
+  {
+    "start": 589.32,
+    "end": 592.76,
+    "text": "But if we go ahead and run the program now we can write something like 10"
+  },
+  {
+    "start": 592.84,
+    "end": 595.08,
+    "text": "Add it's going to add 10 to the value"
+  },
+  {
+    "start": 595.08,
+    "end": 598.12,
+    "text": "But of course what if we write something such as Mario"
+  },
+  {
+    "start": 598.12,
+    "end": 601.48,
+    "text": "Try adding Mario to 10 and the program is not going to be happy"
+  },
+  {
+    "start": 601.48,
+    "end": 605.72,
+    "text": "Because you cannot convert Mario to an integer and then add it to 10"
+  },
+  {
+    "start": 605.72,
+    "end": 611.08,
+    "text": "So it's going to say you shouldn't do that but don't worry because we have the exception covered"
+  },
+  {
+    "start": 611.08,
+    "end": 615.32,
+    "text": "And our program will say that is not a valid number and not throw an exception"
+  },
+  {
+    "start": 615.32,
+    "end": 619.0,
+    "text": "But anyway I really hope that helped you to get started with Python"
+  },
+  {
+    "start": 619.0,
+    "end": 621.08,
+    "text": "Of course there's a lot more to cover"
+  },
+  {
+    "start": 621.08,
+    "end": 624.92,
+    "text": "This was just meant as a very quick guide for helping you to get started"
+  },
+  {
+    "start": 624.92,
+    "end": 630.12,
+    "text": "And with that being said have a wonderful day and I'll see you guys in the next video"
+  }
+]
